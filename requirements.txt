@@ -1,0 +1,9 @@
+gunicorn
+Flask
+Flask-Mako
+tensorflow
+keras
+numpy
+plim
+pillow
+h5py
